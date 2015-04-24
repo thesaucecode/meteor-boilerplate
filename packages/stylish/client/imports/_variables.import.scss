@@ -1,0 +1,42 @@
+/* This is the best place to set variables for commonly used attributes */
+
+/*  Bootstrap overrides */
+/*
+$brand-primary:         darken(#428ddd, 6.5%) !default;
+$brand-success:         #5cb85c !default;
+$brand-info:            #5bc0de !default;
+$brand-warning:         #f0ad4e !default;
+$brand-danger:          #d9534f !default;
+*/
+
+/* Common Styles */
+//$nav_background: #ccc;
+
+/* Custom Fonts */
+/*
+  $font-face {
+   font-family: 'Bitter';
+   font-style: normal;
+   font-weight: 400;
+   src: url('/packages/stylish/fonts/Bitter.woff2') format('woff2');
+  }
+*/
+
+// From meteor-boilerplate
+
+$primaryLinkHoverColor: #682d71;
+$secondaryLinkHoverColor: #bd6ddb;
+$primaryFontColor: #1f1f1f;
+$secondaryFontColor: #f6eff4;
+$secondaryFontColorVariation: #DDDDDD;
+$primaryIconColor: #1b3fc3;
+
+$html5Orange: #F06529;
+
+// Width variables
+$largeDesktopWidth: 1280px;
+$mediumDesktopWidth: 992px;
+$tabletWidth: 768px;
+$phoneWidth: 480px;
+
+$loginFormWidth: 500px;
